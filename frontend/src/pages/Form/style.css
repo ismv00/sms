@@ -38,6 +38,11 @@ p {
     margin-top: 20px;
 }
 
+img {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
 form {
     display: flex;
     flex-direction: column;
